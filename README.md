@@ -2,7 +2,8 @@
 
 This project analyzes historical sales data from 45 Walmart stores to predict weekly sales and demand. It explores the impact of holidays, economic conditions (CPI, unemployment, fuel price), and promotional events on sales.
 
-Key Features
+
+Key Features:
 
 Identifies top performing stores and those with highest sales variability
 
@@ -12,7 +13,8 @@ Provides monthly and semester sales summaries
 
 Builds and compares prediction models for Store 1
 
-🛠 Tech Stack
+
+🛠 Tech Stack:
 
 Tool	Purpose 
 
@@ -22,7 +24,8 @@ Matplotlib, Seaborn	Visualization
 Scikit-learn	Regression Modeling
 
 
-Getting Started 
+
+Getting Started:
 
 Clone the repo
 
